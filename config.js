@@ -1,4 +1,3 @@
-// Конфигурации для комиссий
 module.exports = {
   cashInConfig: {
     percents: 0.03,
